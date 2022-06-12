@@ -11,3 +11,5 @@ O enunciado no exercício está contido na pasta src/documents. O exercício é 
 Na primeira parte foram implementadas as classes que representam os itens do estoque, o gerenciador de itens, o estoque, o gerenciador de estoque, o caixa e os suas respectivas interfaces. Na segunda parte é pedido para indicar se os produtos do estoque podem ou não ser vendidos para menores de idade, para isso é necessário validar os dados do cliente, e também implementar um desconto caso o cliente compre determiado valor em livros.
 
 A relacionamento entres as classes se dá conforme o diagrama de classes a baixo: 
+
+![diagrama de classes](/src/pictures/Sistema de livraria.png)
