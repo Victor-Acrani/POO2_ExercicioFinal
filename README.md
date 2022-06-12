@@ -12,4 +12,4 @@ Na primeira parte foram implementadas as classes que representam os itens do est
 
 A relacionamento entres as classes se dá conforme o diagrama de classes a baixo: 
 
-![diagrama de classes](/src/pictures/Sistema de livraria.png)
+![diagrama de classes](https://github.com/Victor-Acrani/POO2_ExercicioFinal/blob/master/src/pictures/Sistema%20de%20livraria.png)
